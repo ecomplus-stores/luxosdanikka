@@ -47,7 +47,9 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "sales",
+      "title": "OS FAVORITOS!"
     },
     {
       "type": "page-title",
