@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos para todo o Brasil. Confira as condições de frete grátis!"
+    "text": "Enviamos para todo o Brasil."
   },
   "installments": {
     "show": true,
     "text": "Parcele em até 6x sem juros no cartão"
   },
   "exchange": {
-    "show": true,
-    "text": "Temos certeza que você não irá precisar!"
+    "show": false,
+    "text": "Trocas e Devoluções? Temos certeza que você não irá precisar!"
   },
   "promo": {
     "show": true,
-    "text": "Promoções especiais para compra do kit completo do bebê!"
+    "text": "Promoções especiais na compra do kit completo do bebê!"
   }
 }
