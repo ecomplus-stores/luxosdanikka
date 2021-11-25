@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.372994f80d0dea26ae840779523f18c8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4804fc23243532bd15831514345d983b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d5d455e9d2b6a58c46c187a267a75062.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.bddb8f808aa526d2124ce22638d18d6e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ca43272ac6e205c2a139a0503b2a26e1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Luxos da Nikka",
+  "short_name": "Luxos da Nikka",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Presentes e lembranças personalizadas para todas as ocasiões, com detalhes exclusivos e acabamentos impecável!\nEnviamos para todo o Brasil.",
+  "background_color": "#fdf3ef",
+  "theme_color": "#5b7c8d"
+}
