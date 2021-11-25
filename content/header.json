@@ -1,18 +1,18 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "ENVIAMOS PARA TODO O BRASIL!",
     "link": "/promotion",
     "background": "#52778a"
   },
   "contacts_stripe": {
     "pages": [],
     "phone_wpp": false,
-    "socials": false
+    "socials": true
   },
   "categories_list": {
     "featured": [],
     "random": 0,
     "full_width": false
   },
-  "search_input": false
+  "search_input": true
 }
