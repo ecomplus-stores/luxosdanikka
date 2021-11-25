@@ -4,7 +4,7 @@
   "primary_color": "#5b7c8d",
   "theme": {
     "bootswatch": "minty",
-    "custom": "niche-baby"
+    "custom": "niche-flowers"
   },
   "bg_color": "#fdf3ef",
   "repository": "ecomplus-stores/luxosdanikka",
@@ -19,6 +19,6 @@
   "secondary_color": "#493d3a",
   "icon": "/img/uploads/logo-png.png",
   "store_id": 15833,
-  "description": "luxosdanikka",
+  "description": "Presentes e lembranças personalizadas para todas as ocasiões, com detalhes exclusivos e acabamentos impecável!\nEnviamos para todo o Brasil.",
   "large_icon": "/img/uploads/logo-png.png"
 }
